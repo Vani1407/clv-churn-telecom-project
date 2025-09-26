@@ -1,0 +1,5 @@
+High monthly charges + low tenure -> elevated churn risk. Prioritize these for retention offers.
+Customers on month-to-month contracts churn more. Offer discounted annual/one-year bundles to reduce churn.
+Auto-pay (BankTransfer/CreditCard) customers show lower churn; incentivize electronic payments.
+Segment customers by predicted CLV to create tiered retention budgets (High CLV -> VIP retention).
+Use predicted churn probability to drive intervention prioritization (top X% get immediate offers).
