@@ -46,4 +46,26 @@ Key steps performed:
 - Feature engineering for CLV
 - Correlation analysis
 
+📈 Results
 
+Best performing model: Random Forest (example – update with your result)
+
+Achieved ~85% accuracy on test data (update with your actual score).
+
+Key churn indicators:
+
+Contract type (monthly vs yearly)
+
+Tenure with company
+
+Monthly charges
+
+💡 Business Insights
+
+Customers on monthly contracts are more likely to churn.
+
+High monthly charges contribute to customer dissatisfaction.
+
+Retention campaigns should focus on long-term contracts and discount plans.
+
+CLV helps identify high-value customers worth retaining.
