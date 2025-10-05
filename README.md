@@ -1,4 +1,4 @@
-## Project Conclusion: Advanced Predictive Modeling for Telco Strategy
+## Project Conclusion: Customer Lifetime Value & Churn Prediction (Telecom)
 
 This document summarizes the methodology, achievements, and strategic implications derived from developing highly refined models for customer churn and Customer Lifetime Value (CLV) proxy (Total Charges) using the Telco dataset.
 
